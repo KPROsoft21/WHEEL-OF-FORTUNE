@@ -12,7 +12,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
-[Live Demo](https://ai.studio/build) • [Game Features](#-key-features) • [Gameplay Flow](#-gameplay-rules--loop) • [Technical Architecture](#-technical-architecture) • [Getting Started](#-getting-started)
+[Game Features](#-key-features) • [Gameplay Flow](#-gameplay-rules--loop) • [Technical Architecture](#-technical-architecture) • [Getting Started](#-getting-started)
 
 ---
 
