@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+  .transform-style-3d {
+    transform-style: preserve-3d;
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+}
+
+@keyframes curtainWipe {
+  0% {
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    opacity: 0.9;
+  }
+  40% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    opacity: 1;
+  }
+  80% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    opacity: 1;
+  }
+  100% {
+    clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0 100%);
+    opacity: 0;
+  }
+}
+
+@keyframes chaseLights {
+  0% {
+    background-position: 0px 0px;
+  }
+  100% {
+    background-position: 40px 0px;
+  }
+}
+
+@keyframes flashGold {
+  0%, 100% {
+    box-shadow: 0 0 5px #ffd700;
+    border-color: #ffd700;
+  }
+  50% {
+    box-shadow: 0 0 25px #ffea00;
+    border-color: #ffffff;
+  }
+}

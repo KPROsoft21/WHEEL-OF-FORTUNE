@@ -1,0 +1,6 @@
+{
+  "name": "Wheel of Fortune Game Engine",
+  "description": "Comprehensive, production-grade digital replica of Wheel of Fortune matching authentic broadcast mechanics, 52-slot puzzle matrix, 24-wedge mechanical physics wheel, and bonus round architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
