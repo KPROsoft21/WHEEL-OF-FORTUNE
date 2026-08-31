@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/assets/wheel_of_fortune_logo.jpg" alt="Wheel of Fortune Logo" width="750" style="max-width: 100%; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.6);" />
+<img src="./public/assets/wheel_of_fortune_logo.png" alt="Wheel of Fortune Logo" width="360" style="max-width: 100%; border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
 # Wheel of Fortune
 
